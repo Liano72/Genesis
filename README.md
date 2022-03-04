@@ -1,4 +1,4 @@
 # Genesis
-O brinquedo buscava estimular a memorização de cores.
+O jogo busca estimular a memorização de cores.
 
-![example](https://user-images.githubusercontent.com/89361754/156388453-fee3832d-f7d4-492e-854e-e1e7dda5a539.png)
+![Capturar](https://user-images.githubusercontent.com/89361754/156677135-ff95cd8c-c116-4b89-a53c-3b19aa1506a3.JPG)
